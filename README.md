@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_73744158"> </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);陌生人，祝您今天愉快!又来看我！&center=true&size=27"> </a> </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A048F7&random=false&width=435&lines=C%2FC%2B%2B%2FJava%2FGo%2FML%2FDL;%E5%8F%88%E6%9D%A5%E7%9C%8B%E6%88%91%F0%9F%98%83" alt="Typing SVG" /></a>
